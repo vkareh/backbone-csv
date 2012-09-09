@@ -5,7 +5,7 @@
         "email": "vkareh@vkareh.net",
         "url": "http://www.vkareh.net"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
         "url": "git://github.com/vkareh/backbone-csv.git"
