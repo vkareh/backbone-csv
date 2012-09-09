@@ -1,9 +1,22 @@
 {
     "name": "backbone-csv",
-    "author": "Victor Kareh (http://www.vkareh.net)",
+    "author": {
+        "name": "Victor Kareh",
+        "email": "vkareh@vkareh.net",
+        "url": "http://www.vkareh.net"
+    },
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/vkareh/backbone-csv.git"
+    },
     "dependencies": {
         "csv": "0.0.x"
     },
-    "main": "./backbone-csv"
+    "main": "./backbone-csv",
+    "keywords": [
+        "csv",
+        "backbone",
+        "bones"
+    ]
 }
