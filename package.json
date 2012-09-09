@@ -1,11 +1,12 @@
 {
     "name": "backbone-csv",
+    "description": "Backbone.js sync for CSV files.",
     "author": {
         "name": "Victor Kareh",
         "email": "vkareh@vkareh.net",
         "url": "http://www.vkareh.net"
     },
-    "version": "0.0.2",
+    "version": "0.0.3",
     "repository": {
         "type": "git",
         "url": "git://github.com/vkareh/backbone-csv.git"
