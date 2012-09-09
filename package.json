@@ -1,0 +1,9 @@
+{
+    "name": "backbone-csv",
+    "author": "Victor Kareh (http://www.vkareh.net)",
+    "version": "0.0.1",
+    "dependencies": {
+        "csv": "0.0.x"
+    },
+    "main": "./backbone-csv"
+}
